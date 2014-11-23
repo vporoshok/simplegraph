@@ -29,7 +29,6 @@ Indexes and Tables
 
 .. |build-status| image:: https://travis-ci.org/vporoshok/simplegraph.svg?branch=master
    :target: https://travis-ci.org/vporoshok/simplegraph
-   :target:
    :alt: Build status
 .. |coverage-status| image:: https://img.shields.io/coveralls/vporoshok/simplegraph.svg
    :target: https://coveralls.io/r//simplegraph
