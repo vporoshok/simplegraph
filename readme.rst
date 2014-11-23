@@ -1,4 +1,4 @@
-simplegraph |build-status| |coverage-status| |docs| 
+simplegraph |build-status| |coverage-status| |docs|
 ====
 
 Simple Graph class for education base graph algorithms by Asanov M.O., Baranskiy V.A., Rasin V.V. book
@@ -9,7 +9,6 @@ Simple Graph class for education base graph algorithms by Asanov M.O., Baranskiy
 
 .. |build-status| image:: https://travis-ci.org/vporoshok/simplegraph.svg?branch=master
    :target: https://travis-ci.org/vporoshok/simplegraph
-   :target:
    :alt: Build status
 .. |coverage-status| image:: https://img.shields.io/coveralls/vporoshok/simplegraph.svg
    :target: https://coveralls.io/r//simplegraph
